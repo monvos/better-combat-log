@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: BetterCombatLog
+## Author: monvos
+## Version: 1.0
+## Description: Improves the combat log functionality.
+
+
+BetterCombatLog.lua
+Utils\functions.lua
